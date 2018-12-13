@@ -1,8 +1,10 @@
 edit : 
+from _mB
 from _mA
 
 date: 
 2018/12/14
 
 time:
+00:19
 00:14
