@@ -36,6 +36,7 @@
     - ![img_URL](https://media.githubusercontent.com/media/hmjack2008/Test_use_LFS/master/img/test_use_lfs_30.jpg)
     - ![img_URL](https://media.githubusercontent.com/media/hmjack2008/Test_use_LFS/master/img/test_use_lfs_31.jpg)
 ---
+#
 
 #### 推送 (push)到 https://github.com git-server
 9. 在 https://github.com 建立 空的倉庫
