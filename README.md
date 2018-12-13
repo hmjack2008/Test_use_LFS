@@ -46,6 +46,7 @@
     - ![img_URL](https://media.githubusercontent.com/media/hmjack2008/Test_use_LFS/master/img/test_use_lfs_53.jpg)
 11. 將更新推送 (push)到 https://github.com git-server
     - ![img_URL](https://media.githubusercontent.com/media/hmjack2008/Test_use_LFS/master/img/test_use_lfs_64.jpg)
+---
 12. 使用 GIT GUI 將更新推送 (push)到 https://github.com git-server
     - ![img_URL](https://media.githubusercontent.com/media/hmjack2008/Test_use_LFS/master/img/test_use_lfs_54.jpg)
     - ![img_URL](https://media.githubusercontent.com/media/hmjack2008/Test_use_LFS/master/img/test_use_lfs_55.jpg)
